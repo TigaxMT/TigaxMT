@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+My name is Tiago and I try to write good code, but in the end of the day I just write ... code.
 
-<!--
-**TigaxMT/TigaxMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to study Deep Learning, Computer Vision, Math and help people understanding those things in a simple and fun way!
 
-Here are some ideas to get you started:
+#### Languages that you will see in my github
+![image](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![image](https://img.shields.io/badge/C++-black?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Other stuff that I use or I will use ... probably
+![image](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge) ![image](https://img.shields.io/badge/OpenCV-red?style=for-the-badge) ![image](https://img.shields.io/badge/Qt-033602?style=for-the-badge)
+
+### The only social media where I'm active
+<a href="https://twitter.com/in127pkt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+
+
+Check my pinned repositories where you can find how "code" my code is :)
